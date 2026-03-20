@@ -1,5 +1,5 @@
 baseurl = "https://llmkiddie.github.io"
-title = "llmkiddie"
+title = "#!/bin/bash"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -13,7 +13,7 @@ style = "github-dark"
 
 [params]
   author = "llmkiddie"
-  info = "Anykey and Beard"
+  info = "</>"
   description = "eddqd's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/icon.png"
