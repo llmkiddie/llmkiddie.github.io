@@ -1,5 +1,5 @@
 baseurl = "https://llmkiddie.github.io"
-title = "llmkiddie.github.io"
+title = "llmkiddie"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
